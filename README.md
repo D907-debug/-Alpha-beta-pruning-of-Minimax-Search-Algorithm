@@ -207,8 +207,10 @@ g.play_alpha_beta()
 <hr>
 <hr>
 <h2>Sample Input and Output:</h2>
+<img width="591" height="898" alt="Screenshot 2025-10-06 085240" src="https://github.com/user-attachments/assets/36334a92-35f1-4657-a2d9-6a93362340b9" />
 
-<img width="625" height="963" alt="image" src="https://github.com/user-attachments/assets/f0ed4ae0-a435-47f1-82e9-88526afd13ca" />
+<img width="480" height="497" alt="Screenshot 2025-10-06 085248" src="https://github.com/user-attachments/assets/27af00c6-01c3-442a-ad5f-09197e01f8e4" />
+
 
 
 
